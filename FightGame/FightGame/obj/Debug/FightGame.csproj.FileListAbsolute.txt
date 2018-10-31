@@ -1,0 +1,11 @@
+C:\Users\GEORGE\source\repos\FightGame\FightGame\bin\Debug\FightGame.exe.config
+C:\Users\GEORGE\source\repos\FightGame\FightGame\bin\Debug\FightGame.exe
+C:\Users\GEORGE\source\repos\FightGame\FightGame\bin\Debug\FightGame.pdb
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.csprojAssemblyReference.cache
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.BattleField.resources
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.Properties.Resources.resources
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.csproj.GenerateResource.cache
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.csproj.CoreCompileInputs.cache
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.exe
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.pdb
+C:\Users\GEORGE\source\repos\FightGame\FightGame\obj\Debug\FightGame.NewCharacter.resources
